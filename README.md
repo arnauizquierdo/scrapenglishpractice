@@ -14,6 +14,6 @@ pip install -r requirements.txt
 
 --------------------------------------
 
-## Folder to safe all the PDFs 
+## Folder to safe all the PDFs:
 
 You've to create a folder called name "pdf_list" in the root. You will be able to change the name of the folder by modifying "scrapy.py".
